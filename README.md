@@ -1,18 +1,17 @@
-
 <div align="center">
 
 <!-- Animated Header -->
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D10,30,52%26height%3D250%26section%3Dheader%26text%3DYash%2520Sharma%26fontSize%3D80%26fontAlignY%3D35%26animation%3Dtwinkling%26fontColor%3Dffffff" width="100%"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dvenom%26color%3Dgradient%26customColorList%3D8,15,22%26height%3D250%26section%3Dheader%26text%3DGenerative%2520AI%2520Engineer%26fontSize%3D60%26fontAlignY%3D35%26animation%3Dtwinkling%26fontColor%3Dffffff" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-bottom: -5px;"> Hi, I'm Yash Sharma
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-bottom: -5px;"> Hello, I'm Yash Sharma
 <!-- Typing SVG -->
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26duration%3D3000%26pause%3D1000%26color%3D3397F7%26center%3Dtrue%26vCenter%3Dtrue%26random%3Dfalse%26width%3D800%26lines%3D🤖+Data+Scientist;🧠+Machine+Learning+Engineer;🚀+AI+%26+Deep+Learning+Enthusiast;🔬+Problem+Solver" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D28%26duration%3D3000%26pause%3D1000%26color%3D00BFFF%26center%3Dtrue%26vCenter%3Dtrue%26random%3Dfalse%26width%3D800%26lines%3D🤖+Generative+AI+Engineer;🧠+LLM+%26+Transformer+Architect;🚀+Building+Intelligent+Agents;✨+Prompt+Engineering+Expert" alt="Typing SVG" />
 
 <!-- Main GIF -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk5Z2lneXNudGFvdGZtcGZ5Z2ZpZXcwdHZ1aXJzcmN4NnJzNmVqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iDX28/giphy.gif" width="600">
 
 <!-- Badges -->
 
@@ -21,83 +20,81 @@
 <img src="https://www.google.com/search?q=https://img.shields.io/github/followers/yashsham%3Fstyle%3Dfor-the-badge%26color%3Dorange%26label%3DFollowers" />
 </a>
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyashsham%26color%3Dblueviolet%26style%3Dfor-the-badge%26label%3DProfile%2BViews" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Focus-Data--Driven%2520Solutions-brightgreen%3Fstyle%3Dfor-the-badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Focus-Generative%2520Models-blue%3Fstyle%3Dfor-the-badge" />
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> About Me
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="AI Brain" width="400" src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN2bHl6eG9wdzZma3Jwa2s0eTJmM2o0aHc1NHRjYmU0d2Uwc2Y1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdyA1ejl22aA4i26iK/giphy.gif">
 
-🔭 I’m currently working on leveraging deep learning for predictive modeling.
+🔭 I’m currently building AI Agents and multi-modal RAG pipelines.
 
-🌱 I’m currently learning Large Language Models (LLMs) and MLOps principles.
+🌱 I’m currently learning advanced model fine-tuning and quantization techniques.
 
-👯 I’m looking to collaborate on Open Source Data Science & AI Projects.
+👯 I’m looking to collaborate on open-source LLMs and AI safety research.
 
-💬 Ask me about Python, TensorFlow, PyTorch, and Data Visualization.
+💬 Ask me about LangChain, LlamaIndex, Transformers, and Vector Databases.
 
 📫 How to reach me: LinkedIn
 
-📍 Based in India 🇮🇳
+📍 Based in Bareilly, Uttar Pradesh, India 🇮🇳
 
-⚡ Fun fact: I believe every dataset has a story to tell.
+⚡ Fun fact: I spend my weekends prompt-crafting for diffusion models.
 
-🎯 2025 Goal: To build and deploy an end-to-end ML solution in a production environment.
+🎯 2025 Goal: Contribute to a foundational model and deploy scalable GenAI applications.
 
 <br clear="both" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> My Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Generative AI Tech Stack
 <div align="center">
 
-🧠 AI/ML & Data Science
+🧠 Core AI/ML & Frameworks
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,tensorflow,pytorch,keras,sklearn,pandas,numpy,jupyter" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,huggingface,langchain" />
 </p>
 
-🎨 Data Visualization & BI
+📚 Vector Databases & NLP
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmatplotlib,seaborn,plotly,tableau" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpinecone,redis,mongodb" />
+<a href="https://www.trychroma.com/" target="_blank"><img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/126581423%3Fs%3D200%26v%3D4" width="48" height="48" alt="ChromaDB" /></a>
+<a href="https://github.com/facebookresearch/faiss" target="_blank"><img src="https://www.google.com/search?q=https://engineering.fb.com/wp-content/uploads/2017/03/faiss-featured-image.png" width="48" height="48" alt="FAISS" /></a>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnumpy,pandas,scipy" />
 </p>
 
-⚡ Databases & Big Data
+☁️ Cloud, MLOps & Tools
 <p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,postgresql,mongodb,sqlite" />
-</p>
-
-☁️ Tools, Cloud & DevOps
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,docker,aws,gcp,linux" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,gcp,docker,kubernetes,git,github,vscode" />
 </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> Featured Generative AI Projects
 <div align="center">
-<i>❗️ Pinned repositories are displayed here. Pin your best projects on your GitHub profile!</i>
+<i>❗️ Pin your best Generative AI projects on your GitHub profile to have them appear here!</i>
 <table>
 <tr>
 <td width="50%">
 
-📈 Predictive Analytics Engine
-Forecasting trends with high-accuracy models.
+🤖 RAG-Powered Document Analyst
+An AI agent that answers complex queries from a private knowledge base.
 
-🔥 92% accuracy in time-series prediction
+🔥 Retrieval-Augmented Generation pipeline
 
-📊 Built with TensorFlow & Scikit-learn
+📊 Uses LlamaIndex and ChromaDB for efficient retrieval
 
-⚡ Real-time data processing pipeline
+⚡ Fine-tuned LLM for domain-specific accuracy
 
 </td>
 <td width="50%">
 
-🖼️ Computer Vision for Object Detection
-Identifying objects in images and videos with precision.
+🎨 Text-to-Image Diffusion Model
+Generating novel artistic images from textual prompts.
 
-🎯 State-of-the-art YOLOv8 implementation
+🎯 Custom Stable Diffusion model fine-tuned on art datasets
 
-📱 Deployed as a lightweight web app
+🚀 Implemented with PyTorch and 🤗 Diffusers
 
-🚀 Optimized for real-time performance
+✨ Advanced prompt engineering for stylistic control
 
 </td>
 </tr>
