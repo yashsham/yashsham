@@ -7,69 +7,74 @@
 
 ## 🚀 About Me
 
-I am a **BCA student & AI engineer-in-training** focused on **Generative AI, NLP, multi-agent systems, and practical AI automation**. I build production-ready prototypes and web demos that turn LLMs & vision models into useful tools.
+I am a **BCA student & AI engineer-in-training** building practical systems in **Generative AI, NLP, RAG systems and automation agents**. I create full-stack demos and production-capable prototypes (web UIs, agent systems, and Colab notebooks) that turn LLMs and vision models into useful tools.
 
-- 🔭 Current work: Multi-agent AI systems, RAG, LangChain, Hugging Face integrations  
-- ⚡ Strengths: Python, TypeScript, LangChain, Hugging Face, Firebase, Supabase, React + Tailwind  
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/yash-sharmaai/) • [GitHub](https://github.com/yashsham)
-
----
-
-## 🌟 Featured Projects
-
-> All projects link to the real repos in my GitHub account. Demo links are shown when available.
-
-| Project | What it does | Live / Demo |
-|--------:|:-------------|:------------|
-| **AgnoAI — Finance Bot Agent** <br> 🔗 [Repo](https://github.com/yashsham/AgnoAI-Finance-Bot-Agent) | AI Finance agent for stock insights, scheduled reports and analysis (LangChain / Agno integrations). | ![Finance Bot GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/agno-finance-demo.gif) <br> *(upload a GIF to `assets/agno-finance-demo.gif` to replace)* |
-| **VideoForge AI** <br> 🔗 [Repo](https://github.com/yashsham/VideoForgeAI) | Web app for AI-assisted video creation & editing (TypeScript + Vite + Tailwind). | ![VideoForge GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/videoforge-demo.gif) |
-| **Admit AI Nexus** <br> 🔗 [Repo](https://github.com/yashsham/admit-ai-nexus) | Multi-agent admission assistant with Email / WhatsApp / Voice agents and dashboard. | ![Admit AI GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/admitai-demo.gif) |
-| **Stock Analysis Hub** <br> 🔗 [Repo](https://github.com/yashsham/stock-analysis-hub) | Interactive dashboard for stock charts, indicators and backtests. | ![Stock Hub GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/stock-hub-demo.gif) |
-| **Text-to-Image Generator** <br> 🔗 [Repo](https://github.com/yashsham/text-to-image-generator) | Colab / Notebook pipeline for text→image generation using LangChain + HF models. | Notebook: `Text_image.ipynb` in repo |
-
-> 👉 If you want me to generate short demo GIFs for any project, tell me which one and I’ll prepare GIF mockups you can upload.
+- 🔭 Current focus: Multi-agent AI systems, RAG, LangChain, Hugging Face integrations  
+- ⚡ Strengths: Python, TypeScript, LangChain, Hugging Face, Firebase, Supabase, Vite/Tailwind  
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/yash-sharmaai/) — profile verified on my GitHub page. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## ⚡ Skills & Tools
+## 🌟 Featured Projects (real links & demos)
 
-**Languages & ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+### 1) AgnoAI — **Finance Bot Agent**
+- **Repo:** `github.com/yashsham/AgnoAI-Finance-Bot-Agent` — An AI finance bot leveraging Agno + Gemini to fetch market data, produce analysis and scheduled reports. :contentReference[oaicite:1]{index=1}  
+- **Quick run:** `git clone https://github.com/yashsham/AgnoAI-Finance-Bot-Agent.git && pip install -r requirements.txt && python main.py` (see repo README). :contentReference[oaicite:2]{index=2}
 
-**Frameworks & Platforms**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FF6E00?style=for-the-badge&logo=huggingface) ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge)
+### 2) VideoForgeAI — **AI-powered video creation (Web)**
+- **Repo:** `github.com/yashsham/VideoForgeAI` — Web app for AI-assisted video generation & editing (TypeScript + Vite + Tailwind). :contentReference[oaicite:3]{index=3}  
+- **Live demo:** https://video-forge-ai.vercel.app/ (deployed demo). :contentReference[oaicite:4]{index=4}
 
----
+### 3) Admit AI Nexus — **Admission automation & counselling**
+- **Repo:** `github.com/yashsham/admit-ai-nexus` — Multi-agent admission assistant (React + shadcn-ui + Supabase). :contentReference[oaicite:5]{index=5}  
+- **Live demo:** https://admit-ai-nexus.lovable.app/ (live deployment listed in README). :contentReference[oaicite:6]{index=6}
 
-## 📊 Skill Progress
+### 4) Stock Analysis Hub — **Stock visualizer & dashboard**
+- **Repo:** `github.com/yashsham/stock-analysis-hub` — Interactive charts, indicators & real-time prices (Vite/Tailwind). :contentReference[oaicite:7]{index=7}  
+- **Live demo:** https://stock-analysis-hub-yash.vercel.app/ (deployed demo). :contentReference[oaicite:8]{index=8}
 
-| Python | TypeScript | NLP | ML | LangChain |
-|--------|------------|-----|----|-----------|
-| ![Python](https://progress-bar.dev/95/) | ![TS](https://progress-bar.dev/85/) | ![NLP](https://progress-bar.dev/80/) | ![ML](https://progress-bar.dev/75/) | ![LangChain](https://progress-bar.dev/70/) |
-
----
-
-## 🌟 Live & Social
-
-![Profile Views](https://komarev.com/ghpvc/?username=yashsham&color=blue)  
-![Followers](https://img.shields.io/github/followers/yashsham?label=Followers&style=social) ![Repos](https://img.shields.io/github/repos/yashsham?color=green)
-
----
-
-## ✨ Animated Typing
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=600&lines=Building+AI+Bots+%26+Agents...;Automating+Workflows...;Sharing+Open+Source...)
+### 5) Text-to-Image Generator — **Colab / Notebook**
+- **Repo:** `github.com/yashsham/text-to-image-generator` — Colab/Jupyter notebook for text → image using LangChain + Hugging Face (recommended run via Colab). Notebook: `Text_image.ipynb`. :contentReference[oaicite:9]{index=9}  
+- **Open notebook:** `https://github.com/yashsham/text-to-image-generator/blob/main/Text_image.ipynb`. :contentReference[oaicite:10]{index=10}
 
 ---
 
-## 📥 How to run my main demos
+## ⚡ Skills & Tech
 
-**AgnoAI Finance Bot Agent (example)**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF6E00?style=flat-square&logo=huggingface" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase" alt="Firebase" />
+</p>
 
-```bash
-git clone https://github.com/yashsham/AgnoAI-Finance-Bot-Agent.git
-cd AgnoAI-Finance-Bot-Agent
-pip install -r requirements.txt
-# create .env per README, then:
-python main.py
+---
+
+## 📈 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsham&show_icons=true&theme=radical)
+
+---
+
+## 🎯 How to use this profile README
+- To add this to your GitHub profile: create or open the repository named exactly `yashsham` (your username) and add this content to `README.md`. GitHub will render it on your profile page. (I verified your profile repo exists and already contains a README). :contentReference[oaicite:11]{index=11}
+
+---
+
+## 🔗 Quick links
+- GitHub: https://github.com/yashsham :contentReference[oaicite:12]{index=12}  
+- LinkedIn: https://www.linkedin.com/in/yash-sharmaai/ :contentReference[oaicite:13]{index=13}
+
+---
+
+## ✨ Notes & next steps (optional)
+- I used each repo’s README & manifest to extract demo URLs and descriptions (sources cited above). If you want, I can:
+  - Add project GIFs/screenshots (I can generate or accept images you provide).  
+  - Add short “How it works” diagrams and code snippets for each project.  
+  - Improve SEO for each repo (better README structure, badges, contribution guide, issues templates).
+
+---
+
+
 
