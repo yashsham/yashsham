@@ -1,74 +1,46 @@
-# Hi, I'm Yash Sharma 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yash-sharmaai/)  
-[![GitHub](https://img.shields.io/badge/GitHub-@yashsham-181717?style=flat-square&logo=github)](https://github.com/yashsham)
+<h1>Hi there, I'm Yash Sharma 👋</h1>
 
----
+<a href="https://github.com/yashsham">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D25%26pause%3D1000%26color%3D3397F7%26center%3Dtrue%26width%3D435%26lines%3DData%2BScientist%3BMachine%2BLearning%2BEngineer%3BAI%2B%2526%2BDeep%2BLearning%2BEnthusiast%3BProblem%2BSolver" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
+</div>
 
-I am a **BCA student & AI engineer-in-training** focused on **Generative AI, NLP, multi-agent systems, and practical AI automation**. I build production-ready prototypes and web demos that turn LLMs & vision models into useful tools.
+I'm a passionate Data Scientist and Machine Learning Engineer dedicated to transforming complex data into actionable insights. With a strong foundation in statistical analysis, predictive modeling, and deep learning, I enjoy building intelligent systems that solve real-world problems.
 
-- 🔭 Current work: Multi-agent AI systems, RAG, LangChain, Hugging Face integrations  
-- ⚡ Strengths: Python, TypeScript, LangChain, Hugging Face, Firebase, Supabase, React + Tailwind  
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/yash-sharmaai/) • [GitHub](https://github.com/yashsham)
+📬 Find me around the web:
+<div align="center">
+<a href="https://www.linkedin.com/in/yash-sharmaai/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+</a>
+<a href="https://github.com/yashsham" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
+</a>
+</div>
 
----
+💻 Tech Stack & Tools:
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg%3Fstyle%3Dfor-the-badge%26logo%3DTensorFlow%26logoColor%3Dwhite" alt="TensorFlow">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg%3Fstyle%3Dfor-the-badge%26logo%3DPyTorch%26logoColor%3Dwhite" alt="PyTorch">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Keras-%2523D00000.svg%3Fstyle%3Dfor-the-badge%26logo%3DKeras%26logoColor%3Dwhite" alt="Keras">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-%2523F7931E.svg%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-2C2D72%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626.svg%3F%26style%3Dfor-the-badge%26logo%3DJupyter%26logoColor%3Dwhite" alt="Jupyter">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
+</p>
 
-## 🌟 Featured Projects
+📊 My GitHub Stats:
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyashsham%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Yash's GitHub Stats">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyashsham%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Yash's Top Languages">
+</div>
 
-> All projects link to the real repos in my GitHub account. Demo links are shown when available.
-
-| Project | What it does | Live / Demo |
-|--------:|:-------------|:------------|
-| **AgnoAI — Finance Bot Agent** <br> 🔗 [Repo](https://github.com/yashsham/AgnoAI-Finance-Bot-Agent) | AI Finance agent for stock insights, scheduled reports and analysis (LangChain / Agno integrations). | ![Finance Bot GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/agno-finance-demo.gif) <br> *(upload a GIF to `assets/agno-finance-demo.gif` to replace)* |
-| **VideoForge AI** <br> 🔗 [Repo](https://github.com/yashsham/VideoForgeAI) | Web app for AI-assisted video creation & editing (TypeScript + Vite + Tailwind). | ![VideoForge GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/videoforge-demo.gif) |
-| **Admit AI Nexus** <br> 🔗 [Repo](https://github.com/yashsham/admit-ai-nexus) | Multi-agent admission assistant with Email / WhatsApp / Voice agents and dashboard. | ![Admit AI GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/admitai-demo.gif) |
-| **Stock Analysis Hub** <br> 🔗 [Repo](https://github.com/yashsham/stock-analysis-hub) | Interactive dashboard for stock charts, indicators and backtests. | ![Stock Hub GIF](https://raw.githubusercontent.com/yashsham/yashsham/main/assets/stock-hub-demo.gif) |
-| **Text-to-Image Generator** <br> 🔗 [Repo](https://github.com/yashsham/text-to-image-generator) | Colab / Notebook pipeline for text→image generation using LangChain + HF models. | Notebook: `Text_image.ipynb` in repo |
-
-> 👉 If you want me to generate short demo GIFs for any project, tell me which one and I’ll prepare GIF mockups you can upload.
-
----
-
-## ⚡ Skills & Tools
-
-**Languages & ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-**Frameworks & Platforms**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FF6E00?style=for-the-badge&logo=huggingface) ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge)
-
----
-
-## 📊 Skill Progress
-
-| Python | TypeScript | NLP | ML | LangChain |
-|--------|------------|-----|----|-----------|
-| ![Python](https://progress-bar.dev/95/) | ![TS](https://progress-bar.dev/85/) | ![NLP](https://progress-bar.dev/80/) | ![ML](https://progress-bar.dev/75/) | ![LangChain](https://progress-bar.dev/70/) |
-
----
-
-## 🌟 Live & Social
-
-![Profile Views](https://komarev.com/ghpvc/?username=yashsham&color=blue)  
-![Followers](https://img.shields.io/github/followers/yashsham?label=Followers&style=social) ![Repos](https://img.shields.io/github/repos/yashsham?color=green)
-
----
-
-## ✨ Animated Typing
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=600&lines=Building+AI+Bots+%26+Agents...;Automating+Workflows...;Sharing+Open+Source...)
-
----
-
-## 📥 How to run my main demos
-
-**AgnoAI Finance Bot Agent (example)**
-
-```bash
-git clone https://github.com/yashsham/AgnoAI-Finance-Bot-Agent.git
-cd AgnoAI-Finance-Bot-Agent
-pip install -r requirements.txt
-# create .env per README, then:
-python main.py
+🐍 My Contribution Graph:
+<div align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/yashsham/yashsham/output/github-contribution-grid-snake.svg" alt="Yash's Contribution Snake Animation">
+</div>
