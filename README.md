@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-sharmaai/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/yashsham"><img src="https://img.shields.io/badge/GitHub-@yashsham-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:yashsharma.ai@gmail.com"><img src="https://img.shields.io/badge/Email-yashsharma.ai%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:yashprofessionalai@gmail.com"><img src="https://img.shields.io/badge/Email-yashsharma.ai%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
