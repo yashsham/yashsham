@@ -1,110 +1,145 @@
-<!-- Profile Header Animation -->
-<h1 align="center">✨ Hi there, I'm <a href="https://github.com/yashsham">Yash Sharma</a> 👋</h1>
-<h3 align="center">🚀 BCA Student | Gen AI Developer | Creative Technologist</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <a href="https://github.com/yashsham">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yash+Sharma+👋;Generative+AI+Engineer+%7C+Agent+Developer;Building+RAG+Systems+%26+LLM+Workflows" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Training;Building+Next-Gen+RAG+Systems;Full-Stack+AI+Developer;LangChain+%7C+HuggingFace+%7C+Firebase;Always+learning+something+new!"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-sharmaai/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/yashsham"><img src="https://img.shields.io/badge/GitHub-@yashsham-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:yashprofessionalai@gmail.com"><img src="https://img.shields.io/badge/Email-yashprofessionalai%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/yash-sharmaai/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Sharma-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/yashsham">
+    <img src="https://img.shields.io/badge/GitHub-@yashsham-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yashsham&style=for-the-badge&color=brightgreen" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/yashsham?style=for-the-badge&color=yellow" alt="Total Stars" />
 </p>
 
 ---
 
 ## 🚀 About Me
+> 🧠 Generative AI Engineer & BCA student passionate about creating **intelligent systems that think and act**.  
+> I specialize in **multi-agent workflows, RAG systems, AI automation**, and building practical **LLM-based web apps**.
 
-🎓 I’m a **BCA student** passionate about **Generative AI**, **RAG pipelines**, and **Automation Agents**.  
-🧠 I build full-stack systems that make LLMs and Vision Models practical & powerful.  
-
-- 💡 **Current Focus:** Multi-agent AI Systems, LangChain, Hugging Face, RAG Pipelines  
-- 🛠️ **Tech Stack:** Python, TypeScript, LangChain, Firebase, Supabase, Tailwind, Vite  
-- 🎨 **Also Into:** AI content creation, UI/UX, and automation workflows  
-- 🌱 **Currently Exploring:** CrewAI + Gemini + Agno integrations  
-- ⚡ **Fun Fact:** I treat every project like a startup MVP  
+- 🔭 **Current focus:** Agentic AI, LangChain, Hugging Face, and Workflow Automation  
+- ⚡ **Strengths:** Python, TypeScript, React, LangChain, Firebase, Supabase, Vercel  
+- 🌍 **Exploring:** Autonomous AI agents and knowledge-grounded systems  
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/yash-sharmaai/)  
 
 ---
 
-## 🧠 Featured Projects
+## 🌟 Featured Projects
 
-### 🪙 [AgnoAI — Finance Bot Agent](https://github.com/yashsham/AgnoAI-Finance-Bot-Agent)
-> AI-driven finance assistant using **Agno + Gemini** for market insights and reports.
+<details open>
+<summary><b>1️⃣ AgnoAI — Finance Bot Agent</b></summary>
 
-⭐ Real-time data fetching • Automated report generation • CLI + Web-ready
+**Repo:** [AgnoAI-Finance-Bot-Agent](https://github.com/yashsham/AgnoAI-Finance-Bot-Agent)  
+🧩 Multi-agent finance assistant using Agno + Gemini for market insights, portfolio summaries & report automation.
+
+![AgnoAI Banner](https://github.com/yashsham/AgnoAI-Finance-Bot-Agent/assets/banner.gif)
+
+</details>
+
+<details>
+<summary><b>2️⃣ VideoForgeAI — AI-powered Video Creation</b></summary>
+
+**Repo:** [VideoForgeAI](https://github.com/yashsham/VideoForgeAI)  
+🎬 AI-assisted web app for video generation & editing (TypeScript + Vite + Tailwind).  
+**Live demo:** [video-forge-ai.vercel.app](https://video-forge-ai.vercel.app/)
+
+![VideoForgeAI](https://github.com/yashsham/VideoForgeAI/assets/demo.gif)
+
+</details>
+
+<details>
+<summary><b>3️⃣ Admit AI Nexus — Admission Automation & Counselling</b></summary>
+
+**Repo:** [admit-ai-nexus](https://github.com/yashsham/admit-ai-nexus)  
+🎓 Multi-agent admission assistant built with React, shadcn/ui, Supabase.  
+**Live:** [admit-ai-nexus.lovable.app](https://admit-ai-nexus.lovable.app/)
+
+</details>
+
+<details>
+<summary><b>4️⃣ Stock Analysis Hub — Interactive Stock Visualizer</b></summary>
+
+**Repo:** [stock-analysis-hub](https://github.com/yashsham/stock-analysis-hub)  
+📊 Real-time dashboard for visualizing stocks, trends, and technical indicators.  
+**Demo:** [stock-analysis-hub-yash.vercel.app](https://stock-analysis-hub-yash.vercel.app/)
+
+</details>
+
+<details>
+<summary><b>5️⃣ Text-to-Image Generator (Colab)</b></summary>
+
+**Repo:** [text-to-image-generator](https://github.com/yashsham/text-to-image-generator)  
+🧠 LangChain + Hugging Face pipeline for text-to-image generation notebooks.  
+**Colab:** [Open Notebook](https://github.com/yashsham/text-to-image-generator/blob/main/Text_image.ipynb)
+
+</details>
 
 ---
 
-### 🎥 [VideoForgeAI — AI Video Creation Platform](https://github.com/yashsham/VideoForgeAI)
-> Create, edit, and remix videos using **AI-powered automation**.
-
-🧩 Built with TypeScript + Vite + Tailwind  
-🌐 Live Demo → [video-forge-ai.vercel.app](https://video-forge-ai.vercel.app)
-
----
-
-### 🎓 [Admit AI Nexus — Admission Automation](https://github.com/yashsham/admit-ai-nexus)
-> Multi-agent **counseling & admission assistant** powered by Supabase & shadcn-ui.
-
-🌐 Live Demo → [admit-ai-nexus.lovable.app](https://admit-ai-nexus.lovable.app)
-
----
-
-### 📊 [Stock Analysis Hub](https://github.com/yashsham/stock-analysis-hub)
-> Real-time stock visualization dashboard with interactive charts & indicators.  
-🌐 [Live Demo](https://stock-analysis-hub-yash.vercel.app/)
-
----
-
-### 🎨 [Text-to-Image Generator (Colab)](https://github.com/yashsham/text-to-image-generator)
-> Colab-based **Text → Image** generator using LangChain + Hugging Face.  
-🧾 Notebook: [Text_image.ipynb](https://github.com/yashsham/text-to-image-generator/blob/main/Text_image.ipynb)
-
----
-
-## ⚙️ Tech Stack
+## ⚙️ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,firebase,git,vercel,vscode" />
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,firebase,supabase,git,github,vscode" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF6E00?style=for-the-badge&logo=huggingface" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashsham&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsham&theme=radical" height="180px"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashsham&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsham&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsham&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-## ✨ Fun Section
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60">  
-  <em>"Turning AI ideas into working prototypes — one repo at a time."</em>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsham&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🛠️ How to Add This
-- Add this markdown to your `README.md` inside the repo named exactly **yashsham**.
-- Commit and push → it will automatically appear on your GitHub profile!
+## 🧩 Starred & Popular Projects
+
+<details>
+<summary>Click to expand</summary>
+
+Check out my most-starred and trending repositories here:  
+➡️ [github.com/yashsham?tab=stars](https://github.com/yashsham?tab=stars)
+
+</details>
 
 ---
 
-⭐ **Thanks for visiting!** Don’t forget to check my latest commits & stars 😊
+## 🪄 Fun Touches
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsham&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🔗 Quick Links
+- 🌐 **Portfolio (coming soon)**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-sharmaai/)  
+- 🧠 [GitHub Profile](https://github.com/yashsham)
+
+---
+
+⭐ **Pro tip:** Pin your top 6 projects on GitHub to match this README layout.  
+🎨 Designed & maintained by [Yash Sharma](https://github.com/yashsham)
+
 
 
 
