@@ -140,6 +140,3 @@ Check out my most-starred and trending repositories here:
 ⭐ **Pro tip:** Pin your top 6 projects on GitHub to match this README layout.  
 🎨 Designed & maintained by [Yash Sharma](https://github.com/yashsham)
 
-
-
-
