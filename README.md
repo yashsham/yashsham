@@ -84,14 +84,30 @@
 ## ⚙️ Skills & Tech Stack
 
 <p align="center">
+  <!-- Core Languages & Tools -->
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,firebase,supabase,git,github,vscode" />
   <br/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FF6E00?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
+  
+  <!-- AI & Frameworks -->
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-6E3BFF?style=for-the-badge&logo=graphene&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-0A84FF?style=for-the-badge&logo=teamviewer&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-1C1C1C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AgnoAI-ff0077?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF6E00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <br/>
+  
+  <!-- Platforms & Developer Tools -->
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-A020F0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bolt.new-FFBB00?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
+
 
 ## 📈 GitHub Stats
 
