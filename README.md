@@ -171,7 +171,8 @@
 </div>
 
 
-    <img src="https://github-profile-trophy.vercel.app/?username=yashsham&theme=git-grad&no-bg=true&no-frame=true&margin-w=15" />
+    ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yashsham&theme=radical&no-frame=true&margin-w=15)
+
 
   <br/><br/>
 
