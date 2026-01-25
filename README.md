@@ -171,7 +171,10 @@
 </div>
 
 
-    ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yashsham&theme=radical&no-frame=true&margin-w=15)
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashsham&theme=radical&no-frame=true&margin-w=15" alt="trophy"/>
+</p>
+
 
 
   <br/><br/>
