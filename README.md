@@ -15,32 +15,7 @@
 <!-- NEOFETCH TERMINAL SYSTEM INFO & ASCII ART PORTRAIT                   -->
 <!-- ==================================================================== -->
 <div align="center">
-
-```text
-yashsharma / README.md
-
-               .-----------------.         yash@sharma ~--------------------------------------------------------
-             .'                   '.       . OS:........................ Arch Linux / macOS / Windows 11
-            /   .-------------.     \      . Role:...................... Generative AI Engineer & Systems Architect
-           |   |  (o)     (o)  |     |     . Primary Focus:............. Autonomous Multi-Agent Swarms & Enterprise RAG
-           |   |      ___      |     |     . Flagship Project:.......... Study Buddy AI (Pariksha AI) [aiexamcoach.in]
-           |   |     /   \     |     |     . Financial AI Platform:..... ET AI Trader X-Apex [et-ai-trader-x-apex.pages.dev]
-            \   '-------------`     /      . Agent Governance Layer:.... Open Agent Orchestrator (OAO) [oao.vercel.app]
-             '.                   .'       . Core Languages:............ Python, TypeScript, JavaScript, SQL, C++
-               '-----------------'         . Agent Frameworks:.......... CrewAI, LangGraph, LangChain, Agno, AutoGen
-               /                 \         . Vector Databases:.......... ChromaDB, FAISS, Pinecone, Qdrant, Weaviate
-              /   AI ARCHITECT    \        . Backend & Cloud:........... FastAPI, Node.js, AWS Bedrock, GCP Vertex AI, Supabase
-             /_____________________\       
-                                           . Contact ~----------------------------------------------------------
-                                           . Email:..................... yashprofessionalai@gmail.com
-                                           . LinkedIn:.................. linkedin.com/in/yash-sharmaai
-                                           . GitHub:.................... github.com/yashsham
-                                           
-                                           . GitHub Stats ~-----------------------------------------------------
-                                           . Public Repos:.... 42+ | Stars:................... 15+
-                                           . Primary Tech:............ Python & TypeScript (Agentic Workflows)
-```
-
+  <img src="https://raw.githubusercontent.com/yashsham/yashsham/main/terminal.svg" width="100%" alt="Terminal System Info & ASCII Portrait" />
 </div>
 
 <br/>
