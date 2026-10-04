@@ -162,18 +162,18 @@
         <h3 align="left">🎓 Study Buddy AI (Pariksha AI)</h3>
         <p align="left">
           <b>Autonomous Multi-Agent Exam Preparation & Mock Paper Generation Platform</b><br/>
-          Engineered an intelligent educational agent system using <b>CrewAI</b> and <b>Google Gemini</b> that parses user-uploaded documents (PDFs, notes), retrieves domain context via RAG, automatically generates customized mock test papers with answer keys, and provides interactive Streamlit-based study workflows.
+          Engineered an intelligent educational agent system using <b>CrewAI</b> and <b>Google Gemini</b> that parses user-uploaded documents (PDFs, notes), retrieves domain context via RAG, automatically generates customized mock test papers with answer keys, and provides interactive study workflows.
         </p>
         <p align="left">
-          <code>Python</code> · <code>CrewAI</code> · <code>Google Gemini</code> · <code>LangChain</code> · <code>RAG</code> · <code>Streamlit</code>
+          <code>Python</code> · <code>CrewAI</code> · <code>Google Gemini</code> · <code>LangChain</code> · <code>RAG</code> · <code>AI Exam Coach</code>
         </p>
         <p align="left">
           <a href="https://github.com/yashsham/AI-Mock-Paper-Generator" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
           </a>
           &nbsp;&nbsp;
-          <a href="https://ai-mock-paper-generator.streamlit.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" />
+          <a href="http://aiexamcoach.in/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-aiexamcoach.in-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
           </a>
         </p>
       </td>
@@ -194,15 +194,15 @@
           Built an advanced financial command center featuring real-time AI signal generation, interactive chart visualization, cross-market intelligence, and a multi-agent AI market assistant supporting multilingual interaction.
         </p>
         <p align="left">
-          <code>JavaScript</code> · <code>AI Signal Processing</code> · <code>Chart.js</code> · <code>Tailwind CSS</code> · <code>Market Intelligence</code>
+          <code>JavaScript</code> · <code>AI Signal Processing</code> · <code>Chart.js</code> · <code>Tailwind CSS</code> · <code>Cloudflare Pages</code>
         </p>
         <p align="left">
           <a href="https://github.com/yashsham/et-ai-trader-x-apex" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
           </a>
           &nbsp;&nbsp;
-          <a href="https://yashsham.github.io/et-ai-trader-x-apex/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-GitHub_Pages-22C55E?style=for-the-badge&logo=github&logoColor=white" height="30" />
+          <a href="https://et-ai-trader-x-apex.pages.dev/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="30" />
           </a>
         </p>
       </td>
@@ -212,22 +212,30 @@
 
 <br/>
 
-<!-- FLAGSHIP 3: SPACE AGENT ORCHESTRATOR -->
+<!-- FLAGSHIP 3: OPEN AGENT ORCHESTRATOR (OAO) -->
 <div align="center">
   <table width="100%">
     <tr>
       <td>
-        <h3 align="left">🛰️ Space Agent Orchestrator</h3>
+        <h3 align="left">⚡ Open Agent Orchestrator (OAO) & Space Swarm</h3>
         <p align="left">
-          <b>Enterprise 5-State DAG Orchestrator & Orbital Telemetry AI Swarm</b><br/>
-          Architected a 5-state DAG control plane (INIT → PLAN → EXECUTE → REVIEW → TERMINATE) with a multi-agent AI swarm powered by Groq and CrewAI to process real-time satellite fleet telemetry, NORAD TLE orbital mechanics, and Supabase cloud persistence inside a mission control UI.
+          <b>Enterprise Control Plane & AI Agent Governance Layer</b><br/>
+          Architected a 5-state DAG control plane (INIT → PLAN → EXECUTE → REVIEW → TERMINATE) with a multi-agent AI swarm powered by Groq and CrewAI to process real-time telemetry, NORAD TLE orbital mechanics, agent governance, and Supabase cloud persistence inside a mission control dashboard.
         </p>
         <p align="left">
-          <code>Python</code> · <code>Groq LLM</code> · <code>CrewAI</code> · <code>Supabase</code> · <code>DAG Control Plane</code> · <code>FastAPI</code>
+          <code>Python</code> · <code>Groq LLM</code> · <code>CrewAI</code> · <code>Supabase</code> · <code>DAG Control Plane</code> · <code>Vercel</code>
         </p>
         <p align="left">
+          <a href="https://github.com/yashsham/open-agent-orchestrator" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-OAO_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+          </a>
+          &nbsp;&nbsp;
           <a href="https://github.com/yashsham/space-agent-orchestrator" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+            <img src="https://img.shields.io/badge/GitHub-Space_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://oao.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
           </a>
         </p>
       </td>
