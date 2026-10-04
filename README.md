@@ -15,7 +15,7 @@
 <!-- NEOFETCH TERMINAL SYSTEM INFO & ASCII ART PORTRAIT                   -->
 <!-- ==================================================================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yashsham/yashsham/main/terminal.svg" width="100%" alt="Terminal System Info & ASCII Portrait" />
+  <img src="./terminal.svg" width="100%" alt="Terminal System Info &amp; ASCII Portrait" />
 </div>
 
 <br/>
