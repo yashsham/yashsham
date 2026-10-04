@@ -11,14 +11,7 @@
 
 <br/>
 
-<!-- ==================================================================== -->
-<!-- NEOFETCH TERMINAL SYSTEM INFO & ASCII ART PORTRAIT                   -->
-<!-- ==================================================================== -->
-<div align="center">
-  <img src="./terminal.svg" width="100%" alt="Terminal System Info &amp; ASCII Portrait" />
-</div>
 
-<br/>
 
 <!-- ==================================================================== -->
 <!-- QUICK CONNECT & SOCIAL BADGES                                        -->
